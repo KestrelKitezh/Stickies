@@ -1,0 +1,1 @@
+I wanted a togglable reticle in the middle of my screen since I wasn't able to hit with the musketcannonthing in Kingdom Come Deliverance 2. So I slapped this together fast so I could try WPF while I was on it. Icon/Reticle can be changed in the resource folder.
